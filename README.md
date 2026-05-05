@@ -53,14 +53,9 @@
 ### GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aviraltrip&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviraltrip&layout=compact&theme=default&hide_border=true&langs_count=8" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aviraltrip&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aviraltrip&theme=dark&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aviraltrip&theme=minimal&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aviraltrip&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff"/>
 </p>
