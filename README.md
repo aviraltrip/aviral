@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aviral </h1>
+<h1 align="center">Hi, I'm Aviral</h1>
 <h3 align="center">A Passionate Full Stack Developer crafting modern, responsive, and user-friendly web experiences.</h3>
 
 - 👨‍💻 All of my projects are available at **https://aviral-tripathi.vercel.app/**
@@ -7,38 +7,31 @@
 
 ---
 
-### <h3 align="left">Connect with me:</h3>
+### Connect with me:
 
 <p align="left">
-
 <a href="https://www.linkedin.com/in/aviral-tripathi-836763204/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://medium.com/@aviraltripathi25" target="_blank">
   <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
-
 <a href="https://www.codechef.com/users/aviraltrip" target="_blank">
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
-
 <a href="https://codeforces.com/profile/aviraltrip" target="_blank">
   <img src="https://img.shields.io/badge/CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
-
 <a href="https://leetcode.com/u/aviraltrip/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
-### <h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 
 <p align="left">
-
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -53,4 +46,21 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
+
+---
+
+### GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aviraltrip&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviraltrip&layout=compact&theme=default&hide_border=true&langs_count=8" height="165"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aviraltrip&theme=default&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aviraltrip&theme=minimal&hide_border=true&area=true"/>
 </p>
