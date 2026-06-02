@@ -50,9 +50,5 @@
 ### GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aviraltrip&theme=dark&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aviraltrip&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff"/>
 </p>
