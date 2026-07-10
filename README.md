@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Aviral</h1>
-<h3 align="center">A Passionate Full Stack Developer crafting modern, responsive, and user-friendly web experiences.</h3>
+<h3 align="center">Full Stack Developer crafting modern, responsive, and user-friendly web experiences.</h3>
 
 - 👨‍💻 All of my projects are available at **https://aviral-tripathi.vercel.app/**
-- 📝 I regularly write blogs on **https://medium.com/@aviraltripathi25**
+- 📝 I write blogs on **https://medium.com/@aviraltripathi25**
 - 📫 How to reach me: **aviraltripathi25@gmail.com**
 
 ---
