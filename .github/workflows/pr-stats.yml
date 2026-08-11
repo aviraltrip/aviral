@@ -23,7 +23,7 @@ jobs:
         run: |
           sed -i "/<!--STATS:START-->/,/<!--STATS:END-->/c\\
           <!--STATS:START-->\\
-          🔀 **Merged PRs:** ${{ steps.pr_stats.outputs.count }}\\
+           **Merged PRs:** ${{ steps.pr_stats.outputs.count }}\\
           <!--STATS:END-->" README.md
 
       - name: Commit changes
