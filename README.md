@@ -6,6 +6,7 @@ Building modern web applications and AI-powered products with a focus on clean, 
 
 Open Source Contributions
 <!--STATS:START-->
+🔀 **Merged PRs:** 9
 <!--STATS:END-->
 
 **Portfolio:** https://aviral-tripathi.vercel.app/
