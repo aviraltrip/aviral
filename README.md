@@ -1,4 +1,4 @@
-## Full-Stack Developer · GenAI
+## Full-Stack Developer · GenAI · Open Source
 
 Building modern web applications and AI-powered products with a focus on clean, scalable solutions.
 
