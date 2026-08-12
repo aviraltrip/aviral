@@ -5,7 +5,7 @@ Building modern web applications and AI-powered products with a focus on clean, 
 **Tech Stack:** React · Next.js · JavaScript/TypeScript · Node.js · Python · C/C++ · MongoDB · PostgreSQL 
 
 <!--STATS:START-->
-**Merged PRs:** 10
+ **Merged PRs:** 10
 <!--STATS:END-->
 
 **Portfolio:** https://aviral-tripathi.vercel.app/
