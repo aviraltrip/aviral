@@ -1,5 +1,5 @@
 ## Full-Stack Developer · GenAI · Open Source
 
-Building modern web applications and AI-powered products with a focus on clean, scalable solutions.
+**2x Hackathon Winner · CSE '28**
 
-**Tech Stack:** React · Next.js · JavaScript/TypeScript · Node.js · Python · C/C++ · MongoDB · PostgreSQL 
+**Tech Stack:** React · Next.js · JavaScript/TypeScript · Node.js · Express.js · Python · C/C++ · LangChain · MongoDB · PostgreSQL
