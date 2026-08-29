@@ -1,5 +1,6 @@
-## Full-Stack Developer · GenAI · Open Source
+## Full-Stack Dev · GenAI · Open Source
 
 **2x Hackathon Winner · CSE '28**
 
-**Tech Stack:** React · Next.js · JavaScript/TypeScript · Node.js · Express.js · Python · C/C++ · LangChain · MongoDB · PostgreSQL
+**Tech Stack:** React · Next.js · JavaScript/TypeScript · Node.js · Express.js · Python · FastAPI · C/C++ · LangChain · MongoDB · PostgreSQL
+Currently Learning: Go (Golang)
